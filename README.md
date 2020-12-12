@@ -1,5 +1,5 @@
 
-### Hi there 👋, I am İrem
+
 
 ### Hi there 👋, I am İrem
 [![Mentee](https://img.shields.io/badge/Find%20Mentor-I'm%20a%20mentee-pink)](https://findmentor.network/peer/irem-uzun)
