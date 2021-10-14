@@ -3,7 +3,7 @@
 
 ### Hi there 👋, I am İrem
 [![Mentee](https://img.shields.io/badge/Find%20Mentor-I'm%20a%20mentee-pink)](https://findmentor.network/peer/irem-uzun)
-- 🌱 I’m currently learning python, C++,arduino 
+- 🌱 I’m currently learning Python, C ,Arduino 
 - 📫 How to reach me: iremuzun611@gmail.com 
 
 
